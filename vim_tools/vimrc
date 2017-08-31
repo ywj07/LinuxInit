@@ -1,7 +1,7 @@
 set nu
 syntax on
 set nohlsearch 
-set mouse=a 
+" set mouse=a 
 
 
 " 在shell脚本的开头自动增加解释器以及作者等版权信息
