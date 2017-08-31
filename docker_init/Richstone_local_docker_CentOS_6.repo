@@ -1,0 +1,8 @@
+[dockerrepo]
+name=Docker Repository-Richstonedt-Local-Mirrors
+baseurl=http://192.168.6.114/richstonedt_mirrors/docker/yum/repo/centos6
+enabled=1
+gpgcheck=1
+gpgkey=http://192.168.6.114/richstonedt_mirrors/docker/yum/gpg
+#gpgkey=https://mirrors.tuna.tsinghua.edu.cn/docker/yum/gpg
+

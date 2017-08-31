@@ -1,0 +1,10 @@
+
+VBoxManage  createmedium --filename win7-4A-yeweijie-56G.vdi  --size 57344 --format vdi
+VBoxManage clonemedium  win7-4A-yeweijie-100G.vdi  win7-4A-yeweijie-56G.vdi  --existing
+
+
+
+VBoxManage  modifymedium  win7-4A-yeweijie-100G.vdi  --compact
+
+# 压缩虚拟机文件
+VBoxManage  modifymedium filename   --compact
