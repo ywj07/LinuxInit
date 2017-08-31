@@ -1,0 +1,9 @@
+[elasticsearch-5.x]
+name=Elasticsearch repository for5.x packages
+baseurl=http://192.168.6.114/richstonedt_mirrors/ELK/yum/
+gpgcheck=1
+gpgkey=https://artifacts.elastic.co/GPG-KEY-elasticsearch
+enabled=1
+autorefresh=1
+type=rpm-md
+

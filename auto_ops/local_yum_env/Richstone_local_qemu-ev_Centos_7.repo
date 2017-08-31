@@ -1,0 +1,13 @@
+[rdo-qemu-ev]
+name=RDO CentOS-7 - QEMU EV
+baseurl=http://192.168.6.114/richstonedt_mirrors/centos/7/virt/$basearch/kvm-common/
+gpgcheck=1
+enabled=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-SIG-Virtualization-RDO
+
+[rdo-qemu-ev-test]
+name=RDO CentOS-7 - QEMU EV Testing
+baseurl=http://192.168.6.114/richstonedt_mirrors/centos/7/virt/$basearch/kvm-common/
+gpgcheck=1
+enabled=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-SIG-Virtualization-RDO
