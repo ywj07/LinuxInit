@@ -17,7 +17,7 @@ echo -e  "$* \n\n" # 获取所有参数，并汇聚为一个字符串
 # 提交代码
 git add  .
 git commit  -am "update by yeweijie:$cur_datetime,"$*" "
-git push  origin_github  master
+git push  origin  master
 
 
 
