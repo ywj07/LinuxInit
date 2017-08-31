@@ -2,12 +2,12 @@
 
 > yeweijie 
 > 201703
-> 最后更新：20170714
+> 最后更新：20170831
 
 
 ```
-git config --global user.name "yeweijie"
-git config --global user.email "yeweijie@richstonedt.com"
+git config --global user.name "ywj07"
+git config --global user.email "245020027@qq.com"
 
 ```
 
