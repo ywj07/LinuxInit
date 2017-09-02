@@ -15,6 +15,7 @@ func SetTittleShell()
 	call setline(5,"#Name:".expand("%"))
 	call setline(6,"#Version:V1.0")
 	call setline(7,"#Description:用于---- ")
+        call setline(8,"  ")
    endif
 endfunc
 
@@ -31,5 +32,6 @@ func SetTittlePy()
         call setline(6,"#Name:".expand("%"))
         call setline(7,"#Version:V1.0")
         call setline(8,"#Description:用于---- ")
+        call setline(9,"  ")
     endif
 endfunc

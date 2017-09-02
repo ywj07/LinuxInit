@@ -2,7 +2,7 @@
 
 
 创建文件：  
-touce ~/.vimrc
+touch  ~/.vimrc
 
 将vimrc文件中的内容打印到新建的文件中。 
 
