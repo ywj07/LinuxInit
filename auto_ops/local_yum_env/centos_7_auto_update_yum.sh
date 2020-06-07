@@ -1,6 +1,6 @@
 #!/bin/bash
 # base value
-YUM_SITE="rsync://mirror.tuna.tsinghua.edu.cn/centos/"
+YUM_SITE="rsync://mirrors.tuna.tsinghua.edu.cn/centos/"
 LOCAL_PATH="/var/www/html/richstonedt_mirrors/centos/"
 LOCAL_VER='7'
 #BW_limit=5024
